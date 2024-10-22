@@ -2,3 +2,6 @@
     width: 50px;
     aspect-ratio: 1/1;
 } 
+body {
+    font-family: "Roboto", sans-serif;
+}
