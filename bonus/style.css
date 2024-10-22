@@ -5,3 +5,7 @@
 body {
     font-family: "Roboto", sans-serif;
 }
+
+.minw {
+    min-width: 110px;
+}
