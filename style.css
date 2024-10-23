@@ -2,3 +2,9 @@
     width: 50px;
     aspect-ratio: 1/1;
 } 
+#newbook label {
+    font-weight: 500;
+}
+#newbook input::placeholder {
+    font-weight: 500;
+}
